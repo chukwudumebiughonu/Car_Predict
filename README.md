@@ -68,4 +68,16 @@ The steps involved included:
  * Try improve the current model
  
  # Thanks for reading! 🙏
- 
+ <img width="1680" alt="Screen Shot 2021-09-29 at 9 18 22 PM" src="https://user-images.githubusercontent.com/79149164/135343693-afd3432a-abca-47d7-add9-b5e232d51953.png">
+
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 18 34 PM" src="https://user-images.githubusercontent.com/79149164/135343707-e359ce83-4620-4352-bf27-52de4faa4a0d.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 18 45 PM" src="https://user-images.githubusercontent.com/79149164/135343747-2f241c78-97ed-46a4-8125-e155b85727a0.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 00 PM" src="https://user-images.githubusercontent.com/79149164/135343765-66df2d85-3712-4e23-a5eb-610cb19b38bb.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 09 PM" src="https://user-images.githubusercontent.com/79149164/135343778-69874d22-96ae-4056-9d20-8fb4d1ed9cd1.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 20 PM" src="https://user-images.githubusercontent.com/79149164/135343795-4921eb90-f654-41f2-b0c0-95475cb53c3c.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 28 PM" src="https://user-images.githubusercontent.com/79149164/135343802-d0f7ceed-3faf-4da4-b05e-63bd6199c82e.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 34 PM" src="https://user-images.githubusercontent.com/79149164/135343854-f5030d7a-55c1-4ecc-975f-bc78c817fe9f.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 40 PM" src="https://user-images.githubusercontent.com/79149164/135343867-fea81a60-0086-483c-a630-19ce18cec306.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 46 PM" src="https://user-images.githubusercontent.com/79149164/135343890-0790205e-e38b-439d-95e1-53cab114f274.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 19 54 PM" src="https://user-images.githubusercontent.com/79149164/135343901-6232e2b2-7fd4-470b-a5a8-f8144908448d.png">
+<img width="1680" alt="Screen Shot 2021-09-29 at 9 20 03 PM" src="https://user-images.githubusercontent.com/79149164/135343916-4c286894-c22e-4db8-80c5-ec21a32b1784.png">
